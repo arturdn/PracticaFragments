@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticaFragments</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_messi">messi</string>
+    <string name="title_activity_iniesta">iniesta</string>
+    <string name="title_activity_xavi">xavi</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
